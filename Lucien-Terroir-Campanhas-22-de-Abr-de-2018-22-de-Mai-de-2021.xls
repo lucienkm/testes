@@ -1,0 +1,2018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                      <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:x="urn:schemas-microsoft-com:office:excel"
+                       xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+                       xmlns:html="http://www.w3.org/TR/REC-html40">
+                      <Styles>
+                        <Style ss:ID="s17">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s18">
+                          <NumberFormat ss:Format="m/d/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s19">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s20">
+                          <NumberFormat ss:Format="m/yy"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s21">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s22">
+                          <NumberFormat ss:Format="m/d/yy h:mm AM/PM"/>
+                          <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s23">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s24">
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s25">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s26">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s27">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s28">
+                         <NumberFormat ss:Format="0"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s29">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s30">
+                         <NumberFormat ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* (#,##0.00);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s31">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s32">
+                         <NumberFormat ss:Format="Percent"/>
+                         <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s33">
+                         <NumberFormat ss:Format="YYYY-mm-dd"/>
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                        </Style>
+                        <Style ss:ID="s34">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana" ss:Bold="1"/>
+                        </Style>
+                        <Style ss:ID="s35">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                        <Style ss:ID="s36">
+                         <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+                         <Font ss:FontName="Verdana"/>
+                        </Style>
+                      <Style ss:ID="s101">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                                <Font ss:FontName="Verdana" ss:Bold="1"/>
+                              </Style>
+                              <Style ss:ID="s100">
+                                <NumberFormat ss:Format="text"/>
+                                <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+                              </Style></Styles>
+<Worksheet ss:Name="Sheet1">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="12" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="13" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="14" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="15" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="150"/>
+<Column ss:Index="19" ss:AutoFitWidth="0" ss:Width="150"/>
+<Row>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Início dos relatórios</Data></Cell>
+<Cell ss:StyleID="s34"><Data ss:Type="String">Término dos relatórios</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Nome da campanha</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Veiculação da campanha</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Impressões</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções do vídeo contínuas por no mínimo 2 segundos</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Custo por reprodução do vídeo contínua por no mínimo 2 segundos (ARS)</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções do vídeo por no mínimo 3 segundos</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Custo por reprodução do vídeo por no mínimo 3 segundos (ARS)</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">ThruPlays</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Custo por ThruPlay (ARS)</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Alcance</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Valor gasto (ARS)</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções de 25% do vídeo</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções de 50% do vídeo</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções de 75% do vídeo</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções de 95% do vídeo</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções de 100% do vídeo</Data></Cell>
+<Cell ss:StyleID="s26"><Data ss:Type="String">Reproduções de vídeo</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Promoção contínua de enviar mensagem — Federación Sudamericana de Krav Maga - Argentina</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">archived</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8599</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">332</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.73753</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">299</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.81893</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5854</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">244.86</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">364</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">319</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">286</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">278</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">276</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">506</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Evento: Gratis - Curso de Defensa Personal para mujeres - Krav Maga</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">24932</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15561</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">700</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: Workshop gratuito de...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">archived</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2.77</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: Nuestro profesor Lucien...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7824</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">842</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.427553</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">507</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.710059</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6691</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">360</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">535</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">443</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">383</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">341</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">331</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1641</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: Workshop gratuito de...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8622</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7958</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">360</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Federación Sudamericana de Krav Maga - Argentina - Envolvimento com a publicação da Página</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6643</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5246</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">419.66</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Federación Sudamericana de Krav Maga - Argentina - Envolvimento com a publicação da Página</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">22784</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14136</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">600</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;Nuestro profesor Lucien Terroir habló sobre el...&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">19724</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12556</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">archived</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4464</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3919</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.049722</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3685</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.052879</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4345</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">194.86</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4008</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3832</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3754</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3702</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3694</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4447</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">charla mestre</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6039</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4312</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">400</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;Nuestro profesor Lucien Terroir habló sobre el...&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6564</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3453</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">200</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;Clases de Krav Maga, la defensa personal del...&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6923</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4663</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">506.55</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;Clases de Krav Maga, la defensa personal del...&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3397</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2557</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">251.06</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">curtidas</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15423</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10232</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">500</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;Este sábado vuelve a Buenos Aires el maestro...&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">18316</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15700</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">800</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: LA PRIMERA CINTURON...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30255</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17272</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.022696</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10622</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.036905</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27824</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">392</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16979</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13806</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12813</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10902</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10192</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">28313</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: El krav maga cubre...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">29840</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13229</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.029632</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10331</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.037944</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26144</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">392</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10816</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10208</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10020</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7178</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6599</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">28176</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: Las clases de Krav Maga...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5055</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4424</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">260</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Federación Sudamericana de Krav Maga - Argentina - Participações no evento</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">21984</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15340</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">500</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Instagram Post</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14070</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12172</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">420</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Instagram Post</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11227</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9028</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">420</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Instagram Post</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14984</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11792</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">420</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;MARZO GRATIS&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">25931</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23529</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">880</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Federación Sudamericana de Krav Maga - Argentina - Envolvimento com a publicação da Página</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12095</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10235</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">500</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação do Instagram: MARZO GRATIS
+
+Durante...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4215</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3719</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">360</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23516</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10034</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.054321</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9131</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.059693</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3097</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.175996</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">20980</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">545.06</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5107</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2891</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2009</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1387</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1247</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">20542</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicación de Instagram: Este sábado 13h
+Segundo...</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">83792</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12128</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.118487</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2586</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.555688</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">82720</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1437.01</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6818</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15599</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2103</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1284</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1197</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">78334</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Publicação: &quot;USO DE OBJETOS COTIDIANOS⠀&quot;</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">648</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">632</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">44.9</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações do vídeo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">935</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">498</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.200803</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">516</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.193798</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">293</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.341297</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">497</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">100</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">499</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">401</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">340</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">302</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">290</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">844</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações resposta perfeita</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26665</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11988</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.039932</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13178</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.036326</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6047</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.079165</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23856</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">478.71</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7089</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5389</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4857</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2357</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1769</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">24595</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações sonho do imi</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11619</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11366</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.049249</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13173</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.042493</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11032</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.05074</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10564</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">559.76</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11039</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10917</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8699</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7704</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7637</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11598</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações quem faz</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31563</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15568</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.035961</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">19416</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.028834</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12162</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.046032</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">28696</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">559.84</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12332</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9765</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7328</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5465</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4831</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">28298</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações angi familia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10504</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6733</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.07387</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8611</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.05776</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2788</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.178397</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7398</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">497.37</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1819</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1405</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1256</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1155</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1060</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9803</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações lucho monton de amigos</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11072</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10977</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.050998</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11881</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.047118</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10787</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.051897</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10236</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">559.81</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10799</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10743</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10679</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8445</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8309</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11101</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">conversao</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">182889</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">44426</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.296027</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13120</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.002384</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">93969</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">13151.28</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17041</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11679</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9299</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6489</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5748</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">145174</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações mestre arma secreta</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23704</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9195</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.057879</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12017</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.044287</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4557</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.116787</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">21256</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">532.2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2836</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2092</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1661</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1354</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">628</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">21557</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações angelina longo porque sigo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">25982</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10768</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.047676</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13177</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.03896</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4821</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.106486</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23424</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">513.37</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1947</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1174</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">910</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">800</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">376</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23508</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações mestre reagir</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16476</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14487</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.035442</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14884</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.034497</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11747</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.043709</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16020</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">513.45</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11932</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11129</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9686</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8725</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8524</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">22010</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações mestre bastao</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">30106</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16993</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.030826</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17528</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.029885</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13053</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.04013</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26912</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">523.82</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13373</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12171</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10774</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5223</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4618</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">28612</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações bater em 3</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">26569</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11308</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.038068</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12599</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.034167</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7618</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.056507</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23536</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">430.47</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7930</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6293</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5539</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2300</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1473</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">24840</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações historia parte 1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10162</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9609</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.052329</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9608</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.052335</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9379</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.053612</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9164</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">502.83</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9365</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9274</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5660</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5127</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4783</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10085</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações historia 2</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3770</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1559</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.096055</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1479</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.101251</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">783</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.191252</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3505</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">149.75</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">783</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">261</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">231</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">177</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">161</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3447</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações melhor instrutor</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4722</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4993</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.054444</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4996</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.054412</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4859</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.055946</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4375</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">271.84</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4857</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4763</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2829</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2236</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2209</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5256</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Visualizações manu autonomia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4806</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4669</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.051381</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4670</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.05137</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4569</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.052506</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4643</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">239.9</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4564</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4514</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3461</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2907</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2841</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4797</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Pre Masterclass</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2296</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2264</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.050159</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2254</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.050382</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2214</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.051292</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2197</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">113.56</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2217</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2194</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2181</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1750</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1713</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2307</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Video nao e hobby</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">19494</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5155</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.106954</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6400</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.086148</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2115</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.260686</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16592</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">551.35</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2223</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1335</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">549</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">325</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">247</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17006</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">video que es km</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">29726</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8003</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.12376</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8442</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.117324</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4155</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.238375</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">24504</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">990.45</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4678</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3327</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2851</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1928</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1217</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">27423</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">a seco</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">19277</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6504</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.072274</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7205</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.065242</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2474</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.190004</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17212</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">470.07</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2475</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1649</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1103</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">443</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">304</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17292</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">coneccao com imi</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13656</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3523</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.133798</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4460</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.105688</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1269</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.37145</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11736</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">471.37</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1495</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">647</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">351</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">147</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">96</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12009</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">para quem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10095</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3518</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.09064</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3568</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.089369</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1643</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.194078</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8868</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">318.87</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">842</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">481</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">319</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">35</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">29</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9212</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">sombra</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13481</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4341</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.087839</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4340</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.087859</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1882</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.202609</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12336</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">381.31</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1586</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">663</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">427</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">182</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">122</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12768</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">convite zoom</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">70515</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10591</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.479588</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2354</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2.15774</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">34928</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">5079.32</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12319</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9694</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">582</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">272</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">189</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">62873</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">mes da mulher</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3714</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1254</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.129282</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1429</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.11345</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">419</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.386921</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3618</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">162.12</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">612</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">229</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">108</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">24</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3505</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">faca</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9468</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3954</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.052223</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4027</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.051276</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2327</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.088737</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8942</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">206.49</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2572</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1875</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">400</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">126</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">94</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8845</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">Live historia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4630</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2265</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.119607</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2416</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.112132</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">977</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.277288</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4498</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">270.91</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">886</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">452</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">346</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">212</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">167</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4198</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Conversao</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">179195</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">35431</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.338686</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8471</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.416594</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">97729</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">11999.97</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10700</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7073</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4456</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3193</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2947</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">137181</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Visualizacao DIferenca</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10592</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7072</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.070123</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7294</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.067989</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6714</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.073862</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9590</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">495.91</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6713</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6436</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3045</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1931</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1722</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10219</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Visulizacao 6 videos antigos</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">112269</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">56908</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.039304</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">57404</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.038965</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">39008</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.057341</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">94354</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2236.74</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">40421</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">35473</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31869</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10751</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8662</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">105901</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Visualizacao conexao</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6317</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4812</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.108653</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4886</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.107008</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3994</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.130906</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5470</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">522.84</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3970</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2776</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1386</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1084</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1064</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6120</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Visualizacao cientifico</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11842</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11027</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.043354</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11170</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.042799</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10584</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.045169</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10476</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">478.07</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10536</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10213</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4740</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3457</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3392</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11667</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Visualizacao mulheres manu</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4281</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4145</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.10987</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4136</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.110109</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4038</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.112781</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3913</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">455.41</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4014</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3830</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2153</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1453</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1387</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4204</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Temporario conversao vivo — Cópia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">551</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">49</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.14</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">5.586</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">551</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">55.86</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">353</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[SKM]Conversao — vivo — Cópia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12674</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">774</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.076214</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">227</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">3.669559</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12112</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">832.99</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">137</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">71</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">48</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">29</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">24</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5168</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[WTF][Encuesta]1o test</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8044</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6476</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">397.32</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[voltamos20] mensagens</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7844</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2037</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1.24271</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1026</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2.467251</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2018</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2531.4</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1033</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">530</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">371</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">154</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">121</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5630</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][FIT]imagens</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6743</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5466</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">598.07</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][KT]imagem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5901</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4928</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">591.5</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][KINE]imagem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5458</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4140</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">591.12</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][PK]imagem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6760</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4890</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">589.52</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][KM]imagem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7464</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6390</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">588.64</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][BX]imagem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8385</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6782</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">587.19</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][FIT]funcional</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2411</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1940</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">203.16</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][NJ]imagens</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">23086</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13133</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1551.26</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][BX]imagem — segunda</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">25713</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16560</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KM]Video institucional so</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">21716</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13199</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.105009</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13288</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.104305</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8111</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.17088</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">17616</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1386.01</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1406</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">881</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">566</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">411</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">323</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">20559</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][FIT]video calistenia</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6878</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3778</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.117753</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">3609</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.123267</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2792</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.159337</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6326</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">444.87</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2850</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">131</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">91</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">89</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6674</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][BX]imagem — tercero</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">12017</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">8948</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">966.34</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KM]Visualizacao magritte</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2509</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1271</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.141684</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1190</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.151328</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">970</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.185649</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2426</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">180.08</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1030</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">42</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2415</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][TKD]imagem</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1353</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1138</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">178.44</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KM]Visualizacao Goliath</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">16279</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6807</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.119581</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6735</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.12086</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4444</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.183166</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">13816</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">813.99</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1080</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">881</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">677</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">380</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">200</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">15252</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KING][TKD]Inicio infantil panfleto</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7931</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5844</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">819.42</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KMK] Aula especial feriado 24 marzo</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">5294</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">4402</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">515.67</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KMK] Aula especial feriado 1 abril</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">9206</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6849</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">1092.37</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KM] visualizacao fotos mulher 2021</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">774</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">661</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.16062</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">632</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.167991</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">534</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.19882</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">773</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">106.17</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">550</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">767</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KM] engajamento zoom mestre</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">completed</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">7544</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">6480</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">2000</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KM]Visualizacao krausz plan B</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">active</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2916</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2139</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.165596</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2038</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.173803</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1738</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.203803</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2810</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">354.21</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1741</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">41</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">40</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">28</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">2831</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KMK] Visualizacao krausz plan B</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">inactive</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1533</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1163</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.160782</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1121</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.166806</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">968</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.193171</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1472</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">186.99</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">968</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">14</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">11</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1508</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KMK] Visualizacao krausz plan B sem abertura</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">active</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1547</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">597</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.172613</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">583</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.176758</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">244</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.422336</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1499</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">103.05</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">242</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">202</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">163</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">114</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">77</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1427</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2018-04-22</Data></Cell>
+<Cell ss:StyleID="s33"><Data ss:Type="DateTime">2021-05-22</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">[KMK] Visualizacao krausz plan B sem arma</Data></Cell>
+<Cell ss:StyleID="s25"><Data ss:Type="String">active</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1159</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">314</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.317962</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">298</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.335034</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">132</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">0.756364</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1112</Data></Cell>
+<Cell ss:StyleID="s23"><Data ss:Type="Number">99.84</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">135</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">60</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">41</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">35</Data></Cell>
+<Cell ss:StyleID="s27"><Data ss:Type="Number">1063</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
